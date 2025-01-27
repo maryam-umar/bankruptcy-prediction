@@ -7,7 +7,7 @@ Machine learning model to predict company bankruptcy using financial indicators.
 ## 📁 Files
 - bankruptcy-prediction.ipynb: Analysis notebook
 - requirements.txt: Dependencies
-- data/: bankruptcy-companies.csv (Aakritsinghal, 2021)
+- data/: Dataset
 
 ## 📊 Key Results
 - Balanced model metrics:
