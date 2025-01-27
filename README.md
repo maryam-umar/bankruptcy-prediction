@@ -4,10 +4,6 @@
 
 Machine learning model to predict company bankruptcy using financial indicators.
 
-## 🛠️ Setup
-```bash
-pip install -r requirements.txt
-
 ## 📁 Files
 - bankruptcy-prediction.ipynb: Analysis notebook
 - requirements.txt: Dependencies
